@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mcsarmend/ClementeZarraga/static/css/main.94a0fc12.chunk.css",
+    "main.js": "/mcsarmend/ClementeZarraga/static/js/main.06e73cab.chunk.js",
+    "main.js.map": "/mcsarmend/ClementeZarraga/static/js/main.06e73cab.chunk.js.map",
+    "runtime-main.js": "/mcsarmend/ClementeZarraga/static/js/runtime-main.e8309dd6.js",
+    "runtime-main.js.map": "/mcsarmend/ClementeZarraga/static/js/runtime-main.e8309dd6.js.map",
+    "static/css/2.dab86632.chunk.css": "/mcsarmend/ClementeZarraga/static/css/2.dab86632.chunk.css",
+    "static/js/2.72b484cf.chunk.js": "/mcsarmend/ClementeZarraga/static/js/2.72b484cf.chunk.js",
+    "static/js/2.72b484cf.chunk.js.map": "/mcsarmend/ClementeZarraga/static/js/2.72b484cf.chunk.js.map",
+    "index.html": "/mcsarmend/ClementeZarraga/index.html",
+    "static/css/2.dab86632.chunk.css.map": "/mcsarmend/ClementeZarraga/static/css/2.dab86632.chunk.css.map",
+    "static/css/main.94a0fc12.chunk.css.map": "/mcsarmend/ClementeZarraga/static/css/main.94a0fc12.chunk.css.map",
+    "static/js/2.72b484cf.chunk.js.LICENSE.txt": "/mcsarmend/ClementeZarraga/static/js/2.72b484cf.chunk.js.LICENSE.txt",
+    "static/media/coverVideo.068412bf.mp4": "/mcsarmend/ClementeZarraga/static/media/coverVideo.068412bf.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8309dd6.js",
+    "static/css/2.dab86632.chunk.css",
+    "static/js/2.72b484cf.chunk.js",
+    "static/css/main.94a0fc12.chunk.css",
+    "static/js/main.06e73cab.chunk.js"
+  ]
+}
