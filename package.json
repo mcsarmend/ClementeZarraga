@@ -5,7 +5,7 @@
   "engines": {
     "node": "14.16.1"
   },
-  "private": false,
+  "private": true,
   "dependencies": {
     "@brainhubeu/react-carousel": "^2.0.4",
     "@testing-library/jest-dom": "^5.14.1",
