@@ -10,7 +10,6 @@ const Slider = () => {
       <div className="carousel-title">
         <h2>My projects</h2>
       </div>
-
       <Carousel
         arrows
         slidesPerPage={3}
