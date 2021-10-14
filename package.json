@@ -1,8 +1,10 @@
 {
-  "homepage": "https://github.com/mcsarmend/ClementeZarraga",
   "homepage":"https://github.com/mcsarmend/ClementeZarraga" ,
   "name": "portafolio-react",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.16.1"
+  },
   "private": true,
   "dependencies": {
     "@brainhubeu/react-carousel": "^2.0.4",
