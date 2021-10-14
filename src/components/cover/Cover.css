@@ -40,11 +40,9 @@
     width: 85%;
   }
 }
-
-
 a.cv {
   text-decoration: none;
-  border: 3px solid grey;
+  border: 3px solid gray;
   color: transparent;
   padding: 40px 80px;
   font-size: 28px;
@@ -58,7 +56,7 @@ a.cv:before {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: grey;
+  color: gray;
   background: rgb(34, 34, 34);
   font-size: 28px;
   top: 0;
@@ -82,7 +80,7 @@ a.cv:after {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: grey;
+  color: gray;
   background: rgb(34, 34, 34);
   font-size: 28px;
   top: 0;
