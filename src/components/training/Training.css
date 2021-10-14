@@ -1,29 +1,27 @@
-.Techs-container{
-    background-color: black;
-        display: flex;
+.Training-container{
+    background-color: white;
+    display: table;
+    height:200px;
         color: black;
-        height: 40vh;
+        height: 30vh;
         padding: 100px 0 100px 0;
 }
-.Techs-title{
+.Training-Text{
+    display: table-cell;
+    vertical-align: middle;
     margin-bottom: 30px;
     font-size: 30px;
-    color: white;
+    color: black;
     width: 40%;
     text-align: center;
     padding: 0 100px 0 100px;
+    margin-bottom: .5em;
 
 }
-.Techs-text {
-    color:white;
-    display: flex;
-    flex-direction:row;
-    justify-content: center;
-}body {
-    padding: 20px;
-    font-family: sans-serif;
-    background: #f2f2f2;
-  }
+.trainingContainer{
+    display: table-cell;
+    vertical-align:middle;
+}
   img {
     width: 50%; /* need to overwrite inline dimensions */
     height: auto;
@@ -33,30 +31,30 @@
     margin-bottom: .5em;
     color: white;
   }
-  .grid-container {
+  .trainingContainer {
     display: grid;
-    grid-template-columns: repeat(7, minmax(100px, 1fr));
+    grid-template-columns: repeat(6, minmax(150px, 2fr));
     grid-gap: 2em;
   }
   
   
   /* hover styles */
-  .location-listing {
+  .training-listing {
     position: relative;
   }
   
-  .location-image {
+  .training-image {
     line-height: 0;
     overflow: hidden;
   }
   
-  .location-image img {
+  .training-image img {
     filter: blur(0px);
     transition: filter 0.3s ease-in;
   }
   
-  .location-title {
-    font-size: 1.5em;
+  .training-title {
+    font-size: 1em;
     font-weight: bold;
     text-decoration: none;
     z-index: 1;
@@ -76,11 +74,11 @@
     justify-content: center;
   }
   
-  .location-listing:hover .location-title {
+  .training-listing:hover .training-title {
     opacity: 1;
   }
   
-  .location-listing:hover .location-image img {
+  .training-listing:hover .training-image img {
     filter: blur(2px);
   }
   
