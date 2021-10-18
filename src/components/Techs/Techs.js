@@ -19,8 +19,10 @@ import xmlImg from "../../media/XML.PNG";
 
 const Techs = () => (
   <div className="Techs-container">
-      <div class="child-page-listing">
-    <h2>Technologies</h2>
+    <div  className= "Techs-title">
+        <h2>Technologies</h2>
+        <br/>
+    </div>
     <div class="grid-container">
        <article class="location-listing"><a class="location-title" >ASP</a>     <div class="location-image"><img src={aspImg} alt="ASP" title="ASP"></img>         </div></article>
        <article class="location-listing"><a class="location-title" >C #</a>     <div class="location-image"><img src={csharpImg} alt="C SHARP" title="C SHARP"></img>          </div></article>
@@ -36,7 +38,6 @@ const Techs = () => (
        <article class="location-listing"><a class="location-title" >Python</a>     <div class="location-image"><img src={pythonImg} alt="PHYTON" title="PYTHON"></img>         </div></article>
        <article class="location-listing"><a class="location-title" >SQL</a>     <div class="location-image"><img src={sqlImg} alt="SQL" title="SQL"></img>         </div></article>
        <article class="location-listing"><a class="location-title" >React</a>   <div class="location-image"><img src={reactImg} alt="REACT" title="REACT"></img>    </div></article>
-    </div>
  </div>
 
 

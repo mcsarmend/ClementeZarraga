@@ -17,8 +17,9 @@ import testerImg from "../../media/tester.png";
 
 const Training = () => (
   <div className="Training-container">
-    <h2 className="Training-Text">Training</h2>
-    <div className="trainingContainer">
+    <h2 className="Training-title">Training</h2>
+    <br/>
+    <div className="trainingTableContainer">
       <article class="training-listing"><a class="training-title" href="JavaScript:window.open('https://firebasestorage.googleapis.com/v0/b/myportfolio-d919e.appspot.com/o/Administrador%20de%20Base%20de%20Datos.pdf?alt=media&token=7f02df4f-baf4-4b81-9a02-8225e47025df0')" >Administrador de base de Datos</a>     <div class="training-image"><img src={adminBDImg} alt="Administrador de Base de Datos" title="Administrador de Base de Datos"></img>         </div></article>
       <article class="training-listing"><a class="training-title" href="JavaScript:window.open('https://firebasestorage.googleapis.com/v0/b/myportfolio-d919e.appspot.com/o/Administrador%20de%20Servidores.pdf?alt=media&token=e5f3a11d-e78f-4e8e-932a-6bbc899c3dfa')" >Administrador de Servidores</a>     <div class="training-image"><img src={adminServImg} alt="Administrador de Servidores" title="Administrador de Servidores"></img>         </div></article>
       <article class="training-listing"><a class="training-title" href="JavaScript:window.open('https://firebasestorage.googleapis.com/v0/b/myportfolio-d919e.appspot.com/o/Asistente%20Web.pdf?alt=media&token=40fc7403-6578-4760-a736-3be7268d42d3')" >Asistente Web</a>     <div class="training-image"><img src={asisWebImg} alt="Asistente Web" title="Asistente Web"></img>         </div></article>

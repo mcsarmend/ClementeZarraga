@@ -91,3 +91,18 @@
     padding: 0 0 40px 0;
   }
 }
+
+
+
+@media screen and (max-width:1080px) {
+  .trainingContainer {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(150px, 2fr));
+    grid-gap: 2em;
+  }
+  .footer {
+    width: 100%;
+    height: 100vh;
+  }
+  
+}
