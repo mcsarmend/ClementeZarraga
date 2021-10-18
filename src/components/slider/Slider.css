@@ -79,6 +79,9 @@
     height: 50vh;
     padding: 30px 0 30px 0;
   }
+  .carousel-title > h2{
+    font-size: 30px;
+  }
 
   .carousel-title {
     width: 100%;
