@@ -2,25 +2,20 @@
     background-color: white;
     display: table;
     height:200px;
-        color: black;
-        height: 30vh;
-        padding: 100px 0 100px 0;
-}
-.Training-Text{
-    display: table-cell;
-    vertical-align: middle;
-    margin-bottom: 30px;
-    font-size: 30px;
     color: black;
-    width: 40%;
-    text-align: center;
-    padding: 0 100px 0 100px;
-    margin-bottom: .5em;
-
+    height: 30vh;
+    padding: 100px 0 100px 0;
 }
-.trainingContainer{
-    display: table-cell;
-    vertical-align:middle;
+
+.Training-title{
+  margin-bottom: 30px;
+  font-size: 40px;
+  color: black;
+  width: 40%;
+  text-align: center;
+  padding: 0 100px 0 100px;
+  flex-direction:row;
+
 }
   img {
     width: 50%; /* need to overwrite inline dimensions */
@@ -31,7 +26,7 @@
     margin-bottom: .5em;
     color: white;
   }
-  .trainingContainer {
+  .trainingTableContainer {
     display: grid;
     grid-template-columns: repeat(6, minmax(150px, 2fr));
     grid-gap: 2em;
@@ -82,4 +77,35 @@
     filter: blur(2px);
   }
   
+  
+
+  @media screen and (max-width:1080px) {
+    .trainingTableContainer {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(150px, 2fr));
+      grid-gap: 2em;
+    }
+    .Training-container{
+      height:200px;
+      width: 100%;
+      background-color: white;
+      display: table;
+      color: black;
+      height: 30vh;
+      padding: 100px 0 100px 0;
+  }
+
+  .training-title {
+    z-index: 1 ;
+    height: 20% ;
+    width: 80%;
+    margin-bottom: 30px;
+    font-size: 50px;
+    color: white;
+    position:absolute;
+    float:left;
+  }
+  
+    
+  }
   
