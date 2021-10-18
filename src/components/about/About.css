@@ -32,7 +32,7 @@
 
 @media screen and (max-width: 1080px) {
   .about-container {
-    height: 23vh;
+    height: 80vh;
     width: 100%;
     flex-direction: column;
     text-align: justify;
