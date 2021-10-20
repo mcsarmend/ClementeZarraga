@@ -10,6 +10,7 @@ const slidesInfo = [
     desc: "Speach Asesoria UTEL",
     href:"https://mcsarmend.github.io/Speach-UTEL/" 
   },
+  /*
   {
     src:"https://cdn.pixabay.com/photo/2016/03/12/14/19/error-404-1252056_960_720.png",
     alt: "Pagina Error 404",
@@ -21,6 +22,7 @@ const slidesInfo = [
     alt: "Project 3",
     desc: "Project 3",
   },
+  */
 ];
 
 const slides = slidesInfo.map((slide) => (
