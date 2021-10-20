@@ -69,8 +69,14 @@
   color: white;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1080px) {
+  .footer {
+    width: 85%;
+    height: 100vh;
+  }
+  
   .footer-info {
+    width: 50%;
     text-align: center;
     padding: 0;
     font-size: 20px;
@@ -91,3 +97,4 @@
     padding: 0 0 40px 0;
   }
 }
+

@@ -19,4 +19,20 @@
   line-height: 80px;
   color: white;
   cursor: pointer;
+  align-items:flex-start;
 }
+
+@media screen and (max-width: 1080px) {
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    background-color: transparent;
+    width: 5%;
+    height: 80px;
+    padding-left: 50px;
+    font-size: 20px;
+    z-index: 1;
+  }
+}
+
