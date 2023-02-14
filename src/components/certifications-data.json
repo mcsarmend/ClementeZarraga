@@ -1,0 +1,12 @@
+[
+  {
+    "title": ".Net Fundamentals",
+    "desc": "Learn the basics of .NET,Identify the differences between .NET, .NET Core, and the .NET Framework,Explore the structure of a .NET project,Install external packages with NuGet.",
+    "tech": [
+      "C#",
+      "Console"
+    ],
+    "img": "dotnetfundamentals.png",
+    "link": "https://platzi.com/p/mcsarmend/curso/2883-course/diploma/detalle/" 
+  }
+]
