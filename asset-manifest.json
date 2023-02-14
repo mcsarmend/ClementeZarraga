@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ClementeZarraga/static/css/main.ec605d3a.chunk.css",
-    "main.js": "/ClementeZarraga/static/js/main.b3e5dfdf.chunk.js",
-    "main.js.map": "/ClementeZarraga/static/js/main.b3e5dfdf.chunk.js.map",
+    "main.css": "/ClementeZarraga/static/css/main.cf251740.chunk.css",
+    "main.js": "/ClementeZarraga/static/js/main.a3ad21e7.chunk.js",
+    "main.js.map": "/ClementeZarraga/static/js/main.a3ad21e7.chunk.js.map",
     "runtime-main.js": "/ClementeZarraga/static/js/runtime-main.0280b52a.js",
     "runtime-main.js.map": "/ClementeZarraga/static/js/runtime-main.0280b52a.js.map",
     "static/css/2.bb376b03.chunk.css": "/ClementeZarraga/static/css/2.bb376b03.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.b4b57c35.chunk.js.map": "/ClementeZarraga/static/js/2.b4b57c35.chunk.js.map",
     "index.html": "/ClementeZarraga/index.html",
     "static/css/2.bb376b03.chunk.css.map": "/ClementeZarraga/static/css/2.bb376b03.chunk.css.map",
-    "static/css/main.ec605d3a.chunk.css.map": "/ClementeZarraga/static/css/main.ec605d3a.chunk.css.map",
+    "static/css/main.cf251740.chunk.css.map": "/ClementeZarraga/static/css/main.cf251740.chunk.css.map",
     "static/js/2.b4b57c35.chunk.js.LICENSE.txt": "/ClementeZarraga/static/js/2.b4b57c35.chunk.js.LICENSE.txt",
     "static/media/60seconds.png": "/ClementeZarraga/static/media/60seconds.6ac6e7f5.png",
     "static/media/App.css": "/ClementeZarraga/static/media/gameboy-background.e0792ecd.jpg",
@@ -46,7 +46,7 @@
     "static/js/runtime-main.0280b52a.js",
     "static/css/2.bb376b03.chunk.css",
     "static/js/2.b4b57c35.chunk.js",
-    "static/css/main.ec605d3a.chunk.css",
-    "static/js/main.b3e5dfdf.chunk.js"
+    "static/css/main.cf251740.chunk.css",
+    "static/js/main.a3ad21e7.chunk.js"
   ]
 }
