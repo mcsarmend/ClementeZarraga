@@ -38,7 +38,7 @@ const Project = (props) => (
           <FontAwesomeIcon icon={faChevronRight} /> {props.desc}
         </p>
         <p style={{ fontSize: "110%" }}>
-          <FontAwesomeIcon icon={faSitemap} /> Technologies
+          <FontAwesomeIcon icon={faSitemap} />Tecnologias
         </p>
         {props.tech.map((tech, idx) => (
           <span className="badge" key={idx}>
