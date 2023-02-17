@@ -327,6 +327,16 @@ nav {
   padding-top: 2rem;
   font-family: "Megrim", cursive;
 }
+.projects-title-Cert {
+  background-color: #212529;
+  margin-bottom: 0 !important;
+  text-align: center;
+  font-size: 4rem;
+  color: var(--gold);
+  animation: animatedText2 5s infinite;
+  padding-top: 2rem;
+  font-family: "Megrim", cursive;
+}
 
 .project-container {
   background-color: #212529;

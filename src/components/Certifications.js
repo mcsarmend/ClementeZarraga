@@ -8,7 +8,7 @@ class Projects extends Component {
   render() {
     return (
       <div>
-        <h1 className="projects-title">Certifications</h1>
+        <h1 className="projects-title-Cert" >Certifications</h1>
         {this.state.projectsData.map((project) => {
           return (
             <Project

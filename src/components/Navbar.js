@@ -12,7 +12,7 @@ const Navbar = () => {
           className="navbar-brand"
           data-aos="zoom-in"
           data-aos-offset="0"
-          href="/"
+          href="/ClementeZarraga/"
         >
           <img className="logo" src={logo} alt="logo" />
         </a>

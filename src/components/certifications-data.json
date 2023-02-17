@@ -1,12 +1,202 @@
 [
   {
-    "title": ".Net Fundamentals",
-    "desc": "Learn the basics of .NET,Identify the differences between .NET, .NET Core, and the .NET Framework,Explore the structure of a .NET project,Install external packages with NuGet.",
+    "title": "Curso avanzado de flutter",
+    "desc": "",
+    "tech": [
+      "Dart"
+    ],
+    "img": "flutteravanzado.png",
+    "link": "https://platzi.com/p/mcsarmend/curso/1603-course/diploma/detalle/" 
+  },
+  {
+    "title": "Curso flutter",
+    "desc": "",
+    "tech": [
+      "Dart"
+    ],
+    "img": "flutter.png",
+    "link": "https://platzi.com/p/mcsarmend/curso/1386-course/diploma/detalle/" 
+  },
+  {
+    "title": "Fundamentos .net",
+    "desc": "",
     "tech": [
       "C#",
       "Console"
     ],
     "img": "dotnetfundamentals.png",
     "link": "https://platzi.com/p/mcsarmend/curso/2883-course/diploma/detalle/" 
+  },
+  {
+    "title": "Básico de JavaScript",
+    "desc": "",
+    "tech": [
+      "JavaScript",
+      "Console"
+    ],
+    "img": "basicojs.png",
+    "link": "https://platzi.com/p/mcsarmend/curso/1814-course/diploma/detalle/" 
+  },
+  {
+    "title": "Desarrollador de Aplicaciones móviles",
+    "desc": "Clave: CA4 JFL 65L",
+    "tech": [
+      "JavaScript",
+      "Console"
+    ],
+    "img": "googledevapps.png",
+    "link": "https://learndigital.withgoogle.com/activate/validate-certificate-code" 
+  },
+  {
+    "title": "Your first Conversations",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "inglesprincipiantes.png",
+    "link": "https://platzi.com/p/mcsarmend/curso/1945-course/diploma/detalle/" 
+  },
+  {
+    "title": "Learn English Online",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "estrategiasingles.png",
+    "link": "https://platzi.com/p/mcsarmend/curso/2633-course/diploma/detalle/" 
+  },
+  {
+    "title": "Trabajo remoto",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "trabajoremoto.png",
+    "link": "https://platzi.com/p/mcsarmend/curso/1872-course/diploma/detalle/" 
+  },
+  {
+    "title": "Administración de Servidores",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "administradorservidores.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/124477a5-587c-4a60-923a-65534c651ef0" 
+  },
+  {
+    "title": "Diplomado Desarrollo de Sitios Web y Aplicaciones móviles",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "dipdevaps.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/69e54166-f3e1-480b-bb3f-5b4aec974cbd" 
+  },
+  {
+    "title": "Desarrollador Back End",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "devback.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/17f27f4e-0baf-4a68-81c1-9a8da1af2c05" 
+  },
+  {
+    "title": "Desarrollador Front End",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "devfront.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/45a65970-1a2e-412b-b4e1-604f6cc472ef" 
+  },
+  {
+    "title": "Desarrollador de VideoJuegos",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "devvideogames.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/bb6034eb-1654-42b0-87f9-b797c46b0728" 
+  },
+  {
+    "title": "Scrum Fundamentals",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "scrumfundamentals.png",
+    "link": "https://www.credential.net/b67208eb-3554-4f63-a42c-5847756d6d54#gs.pplk0a" 
+  },
+  {
+    "title": "Desarrollador de Aplicaciones Móviles",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "devappcarso.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/77abd919-08d4-489b-b3e9-8652661ffcda" 
+  },
+  {
+    "title": "Diplomado Técnico en Integridad Web",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "dipintegridadweb.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/156b9ac8-6dab-4ed3-be5a-8befd88cd717" 
+  },
+  {
+    "title": "Programación Orientada a Objetos",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "poo.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/617d027f-bbef-434e-a2b4-24a2c6555c55" 
+  },
+  {
+    "title": "Administrador de bases de datos",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "dba.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/a8db3f7b-79a5-499d-9a78-936a80562033" 
+  },
+  {
+    "title": "Desarrollador de Contenido Digital",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "contenidodigital.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/c0f752ef-294f-4146-8980-f962eb6fef83" 
+  },
+  {
+    "title": "Gestor de imágen web",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "gestorimagen.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/ba3c4cb0-1561-4497-a19e-d3bdc866fbd0" 
+  },
+  {
+    "title": "Tester",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "tester.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/41bd7c6a-f90b-4c65-9809-f5f764a00494" 
+  },
+  {
+    "title": "Asistente Web",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "asistenteweb.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/f1ab0604-57bf-4692-8be8-eff0ca4c853b" 
+  },
+  {
+    "title": "Curador de datos",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "curadordedatos.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/7452aa70-bd32-49fe-8dd9-fd9f73f6b015" 
+  },
+  {
+    "title": "Finder",
+    "desc": "",
+    "tech": [
+    ],
+    "img": "finder.png",
+    "link": "https://capacitateparaelempleo.org/verifica/4da3562c-b6bb-4cd7-ba50-2845de0b5d12/bef0212d-fe34-4c7e-9ae7-63df4f995d7e" 
   }
 ]
