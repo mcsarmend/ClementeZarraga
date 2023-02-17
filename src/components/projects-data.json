@@ -1,17 +1,16 @@
 [
   {
-    "title": "Explorer",
-    "desc": "Explorer is a traveller's guide/search engine to find your next travel location. It provides information about cities and provides suggestions depending on the user type.",
+    "title": "Kosmos Draco",
+    "desc": "Application to track trips made by carriers.",
     "tech": [
-      "MongoDB",
-      "ExpressJS",
-      "ReactJS",
-      "NodeJS",
-      "GraphQL",
-      "Semantic UI"
+      "MySql",
+      "PHP",
+      "Laravel",
+      "Flutter",
+      "Dart"
     ],
-    "img": "explorer.png",
-    "github": "https://github.com/DACK-OF-ALL-TRADES/explorer",
-    "deployed": "https://explorer-guide.herokuapp.com"
+    "img": "kosmosdraco.gif",
+    "github": "",
+    "deployed": ""
   }
 ]
